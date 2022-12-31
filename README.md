@@ -21,7 +21,7 @@ Gotta Fetch 'Em All! Pokemon!
 git fetch
 ```
 
-## Add Tress
+## Add Trees
 
 Add your favourite folder and branch!
 ```bash
